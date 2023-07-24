@@ -38,7 +38,7 @@ System.out.println("distance(second)= " + first.distance(second));
 
 System.out.println("distance(2,2)= " + first.distance(2, 2));
 
-Point point = new Point();
+Point point = new Point(0,0);
 
 System.out.println("distance()= " + point.distance());
 
